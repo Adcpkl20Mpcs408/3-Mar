@@ -1,0 +1,9 @@
+Write a Python program to merge two tuples.
+Program:-
+tuple1=("1","4","9","16","25")
+tuple2=("36","49","64","81","100")
+tuple3 = tuple1 + tuple2
+print(tuple3)
+Output:-
+('1', '4', '9', '16', '25', '36', '49', '64', '81', '100')
+
